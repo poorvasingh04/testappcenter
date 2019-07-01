@@ -1,0 +1,6 @@
+framework module Pods_testappcenter_tvOS {
+  umbrella header "Pods-testappcenter-tvOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
