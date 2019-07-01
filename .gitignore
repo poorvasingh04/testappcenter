@@ -1,6 +1,8 @@
 # OSX
 #
 .DS_Store
+/node_modules
+Pods
 
 # Xcode
 #
@@ -21,6 +23,7 @@ DerivedData
 *.ipa
 *.xcuserstate
 project.xcworkspace
+*.xcworkspace
 
 # Android/IntelliJ
 #
